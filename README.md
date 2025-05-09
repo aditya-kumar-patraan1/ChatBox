@@ -21,7 +21,8 @@ Codoodle is a sleek and powerful AI chatbot powered by Google's Gemini API, offe
 ---
 
 ## Screenshots and Videos
-🎥 [Watch Demo Video](https://raw.githubusercontent.com/aditya-kumar-patraan1/CodeReviewer/main/Client/CodeReviwer.mp4)
+
+🎥 [Watch Demo Video](https://raw.githubusercontent.com/aditya-kumar-patraan1/ChatBox/main/src/assets/CHATBOT.mp4)
 - Dark Theme
 <img src="https://github.com/aditya-kumar-patraan1/CodeReviewer/blob/main/Client/darktheme.png?raw=true" width="600" alt="Dark Theme Screenshot" />
 
